@@ -1,5 +1,5 @@
 $( function() {
-        var endDate = "February 15, 2021 19:00:00";
+        var endDate = "February 16, 2021 15:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
